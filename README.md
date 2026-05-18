@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to "Adi draws art!" Aspiring young artist learning and growing through drawing and animation. Comics enthusiast! Parent-managed account.
+
 <!--
 **adipracs/adipracs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
